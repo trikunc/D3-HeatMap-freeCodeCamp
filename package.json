@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "d3-heatmap-freecodecamp",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "d3": "6.3.1",
